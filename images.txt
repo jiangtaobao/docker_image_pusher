@@ -8,4 +8,4 @@
 #openjdk:11
 #minio/minio:latest
 #redis
-nacos
+nacos/nacos-server
