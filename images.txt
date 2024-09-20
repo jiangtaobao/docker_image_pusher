@@ -9,4 +9,5 @@
 #minio/minio:latest
 #redis
 #nacos/nacos-server
-clickhouse/clickhouse-server
+#clickhouse/clickhouse-server
+zookeeper:3.5
