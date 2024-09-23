@@ -11,5 +11,4 @@
 #nacos/nacos-server
 #clickhouse/clickhouse-server
 #zookeeper
-bitnami/zookeeper:latest
-bitnami/kafka:latest
+zookeeper:3.7.1
