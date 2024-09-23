@@ -10,4 +10,5 @@
 #redis
 #nacos/nacos-server
 #clickhouse/clickhouse-server
-zookeeper:3.5
+cp-zookeeper
+cp-kafka
