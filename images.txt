@@ -11,4 +11,5 @@
 #nacos/nacos-server
 #clickhouse/clickhouse-server
 #zookeeper
-zookeeper:3.7.1
+#zookeeper:3.7.1
+zlmediakit:master
