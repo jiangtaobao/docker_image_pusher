@@ -13,3 +13,4 @@
 #zookeeper
 #zookeeper:3.7.1
 zlmediakit/zlmediakit:master
+alpine-jdk:11
