@@ -12,5 +12,5 @@
 #clickhouse/clickhouse-server
 #zookeeper
 #zookeeper:3.7.1
-zlmediakit/zlmediakit:master
-alpine-jdk:11
+#zlmediakit/zlmediakit:master
+acs-sample/alpine-jdk:11
