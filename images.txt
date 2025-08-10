@@ -12,4 +12,4 @@
 #clickhouse/clickhouse-server
 #zookeeper
 #zookeeper:3.7.1
-zlmediakit:master
+zlmediakit/zlmediakit:master
