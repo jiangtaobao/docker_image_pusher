@@ -13,3 +13,6 @@
 #zookeeper
 #zookeeper:3.7.1
 #zlmediakit/zlmediakit:master
+
+goharbor/harbor-core:v2.11.0
+
