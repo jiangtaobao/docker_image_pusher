@@ -14,9 +14,8 @@
 #zookeeper:3.7.1
 #zlmediakit/zlmediakit:master
 
-goharbor/harbor-db:v2.11.0
+#goharbor/harbor-db:v2.11.0
 goharbor/registry-photon:v2.11.0
 goharbor/harbor-core:v2.11.0
 goharbor/harbor-jobservice:v2.11.0
 goharbor/harbor-portal:v2.11.0
-
