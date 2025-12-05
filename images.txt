@@ -1,25 +1,2 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#mysql:8.0
-#openjdk:11
-#minio/minio:latest
-#redis
-#nacos/nacos-server
-#clickhouse/clickhouse-server
-#zookeeper
-#zookeeper:3.7.1
-#zlmediakit/zlmediakit:master
-
-#goharbor/harbor-db:v2.11.0
-#goharbor/registry-photon:v2.11.0
-#goharbor/harbor-core:v2.11.0
-#goharbor/harbor-jobservice:v2.11.0
-#goharbor/harbor-portal:v2.11.0
-
-#registry:2
 victoria-metrics-k8s-stack:v1.124.0
 
