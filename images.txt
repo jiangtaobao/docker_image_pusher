@@ -1,2 +1,2 @@
-victoria-metrics-k8s-stack:v1.124.0
+labring-mirror/victoria-metrics-k8s-stack:v1.124.0
 
