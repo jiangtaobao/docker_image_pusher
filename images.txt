@@ -20,5 +20,5 @@
 #goharbor/harbor-jobservice:v2.11.0
 #goharbor/harbor-portal:v2.11.0
 
-registry:2
-
+#registry:2
+kube-state-metrics:v2.8.2
