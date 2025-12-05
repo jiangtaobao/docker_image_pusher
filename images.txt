@@ -21,4 +21,5 @@
 #goharbor/harbor-portal:v2.11.0
 
 #registry:2
-google_containers/kube-state-metrics:v2.8.2
+victoria-metrics-k8s-stack:v1.124.0
+
